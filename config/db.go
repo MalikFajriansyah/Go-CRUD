@@ -13,7 +13,7 @@ var e error
 func DatabaseInit() {
 	host := "localhost"
 	user := "postgres"
-	password := "Malik1011*"
+	password := "*"
 	dbName := "postgres"
 	port := 5432
 
